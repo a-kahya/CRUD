@@ -6,3 +6,8 @@ td, th{
   border: 1px solid black;
   border-collapse: collapse;
 }
+
+#bouton_effacer, #bouton_editer{
+  background: none;
+  background-color: antiquewhite;
+}
